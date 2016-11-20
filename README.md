@@ -1,0 +1,1 @@
+spring-social-odnoklassniki based on https://github.com/cackle/spring-social-odnoklassniki
